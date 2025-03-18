@@ -1,8 +1,8 @@
 # Orofacial Myofunctional Therapy Survivor Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Inneumo/ST-OSA-PS-OMT-Therapy-Data)
-![GitHub last commit](https://img.shields.io/github/last-commit/Inneumo/ST-OSA-PS-OMT-Therapy-Data)
+![GitHub repo size](https://img.shields.io/github/repo-size/Inneumo/ST-OSA-PS-OMT-Teraphy-Data)
+![GitHub last commit](https://img.shields.io/github/last-commit/Inneumo/ST-OSA-PS-OMT-Teraphy-Data)
 [![FAIR Compliance](https://img.shields.io/badge/FAIR-Data-blue)](https://www.go-fair.org/fair-principles/)
 
 **Description**:  
