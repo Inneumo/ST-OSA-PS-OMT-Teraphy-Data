@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Orofacial Myofunctional Therapy Survivor Dataset"
+authors:
+  - family-names: Rivera Capacho
+    given-names: Eliana Elizabeth
+  - family-names: Diaz Bossa
+    given-names: Claudia Patricia
+  - family-names: Campos
+    given-names: María del Carmen
+  - family-names: Rincon-Yanez
+    given-names: Diego
+  - family-names: Rangel-Navia
+    given-names: Heriberto
+  - family-names: Bianchini
+    given-names: Esther Mandelbaum Gonçalves
+date-released: 2025-01-29
+#doi: "10.5281/zenodo."  # Replace with real DOI if available
+url: "https://github.com/Inneumo/ST-OSA-PS-OMT-Therapy-Data"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/Inneumo/ST-OSA-PS-OMT-Therapy-Data"
