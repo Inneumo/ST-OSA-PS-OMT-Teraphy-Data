@@ -6,7 +6,7 @@ This dataset, **ST-OSA-PS-OMT Therapy Dataset**, complies with the FAIR Data Pri
 
 ## 🔍 Findable
 
-- **F1**: Metadata and dataset are assigned a globally unique and persistent identifier (DOI: `10.5281/zenodo.1234567`).
+- **F1**: Metadata and dataset are assigned a globally unique and persistent identifier (DOI: `10.1016/j.rmed.2025.108460`).
 - **F2**: Metadata includes rich and contextual descriptions about the dataset's content and purpose.
 - **F3**: Metadata clearly and explicitly includes the identifier of the dataset.
 - **F4**: The dataset is indexed in a searchable resource (GitHub, Zenodo).
@@ -28,7 +28,7 @@ This dataset, **ST-OSA-PS-OMT Therapy Dataset**, complies with the FAIR Data Pri
 
 - **R1**: The dataset is well-described and includes documentation to support reuse.
 - **R1.1**: Licensing is clear (CC-BY 4.0) to permit reuse.
-- **R1.2**: Detailed provenance of the data is provided in `documentation/`.
+- **R1.2**: Detailed provenance of the data is provided in `docs/`.
 - **R1.3**: The dataset adheres to domain-relevant standards for clinical study reporting.
 
 ---
