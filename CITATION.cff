@@ -15,8 +15,8 @@ authors:
   - family-names: Bianchini
     given-names: Esther Mandelbaum Gonçalves
 date-released: 2025-01-29
-#doi: "10.5281/zenodo."  # Replace with real DOI if available
+doi: "10.1016/j.rmed.2025.108460"
 url: "https://github.com/Inneumo/ST-OSA-PS-OMT-Therapy-Data"
-version: "1.0.0"
+version: "1.0.1"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/Inneumo/ST-OSA-PS-OMT-Therapy-Data"

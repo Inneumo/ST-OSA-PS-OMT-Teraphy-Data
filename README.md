@@ -1,9 +1,11 @@
 # Orofacial Myofunctional Therapy Survivor Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Inneumo/ST-OSA-PS-OMT-Teraphy-Data)
+[![DOI: 10.1016/j.rmed.2025.108460](https://zenodo.org/badge/DOI/10.1016/j.rmed.2025.108460.svg)](https://doi.org/10.1016/j.rmed.2025.108460)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Inneumo/ST-OSA-PS-OMT-Teraphy-Data)
 [![FAIR Compliance](https://img.shields.io/badge/FAIR-Data-blue)](https://www.go-fair.org/fair-principles/)
+![GitHub repo size](https://img.shields.io/github/repo-size/Inneumo/ST-OSA-PS-OMT-Teraphy-Data)
+[![Open Science](https://img.shields.io/badge/open%20science-yes-brightgreen)](https://www.fosteropenscience.eu/)
 
 **Description**:  
 
@@ -13,13 +15,15 @@ This dataset supports the study _"Artificial Intelligence-Enhanced Telemedicine 
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Dataset Structure](#dataset-structure)
-- [Usage](#usage)
-- [FAIR Compliance](#fair-compliance)
-- [Citation](#citation)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+- [Orofacial Myofunctional Therapy Survivor Dataset](#orofacial-myofunctional-therapy-survivor-dataset)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Dataset Structure](#dataset-structure)
+  - [Usage](#usage)
+  - [✅ FAIR Compliance](#-fair-compliance)
+  - [Citation](#citation)
+  - [Acknowledgments](#acknowledgments)
+  - [Contact](#contact)
 
 ---
 
@@ -38,7 +42,7 @@ This dataset supports the study _"Artificial Intelligence-Enhanced Telemedicine 
 
 - [`data/`](data/): Original dataset as collected.
 - [`metadata/`](metadata/): Metadata including variable descriptions and data dictionary.
-- [`documentation/`](documentation/): Methodology, ethical approval, and contextual information.
+- [`docs/`](docs/): Methodology, ethical approval, and contextual information.
 - [`fair/`](fair/): FAIRness checklist and metadata standards.
 
 ---
@@ -80,11 +84,15 @@ Please cite both the dataset and the corresponding paper:
 
 ```bibtex
 @article{RiveraCapacho2025,
-  title     = {Artificial Intelligence-Enhanced Telemedicine for Orofacial Myofunctional Therapy in Sleep Apnea: Adult Patient Outcomes},
-  author    = {Rivera Capacho, Eliana Elizabeth and Diaz Bossa, Claudia Patricia and Campos, María del Carmen and Rincon-Yanez, Diego and Rangel-Navia, Heriberto and Bianchini, Esther Mandelbaum Gonçalves},
-  journal   = {Submited to Respiratory Medicine},
-  year      = {2025},
-  note      = {Preprint submitted on January 19, 2025}
+author = {{Rivera Capacho}, Eliana Elizabeth and Bossa, Claudia Patricia Diaz and Campos, Mar{\'{i}}a Del Carmen and Rincon-Yanez, Diego and Rangel-Navia, Heriberto and Bianchini, Esther Mandelbaum Gon{\c{c}}alves},
+doi = {10.1016/j.rmed.2025.108460},
+issn = {15323064},
+journal = {Respiratory medicine},
+month = {nov},
+pmid = {41176093},
+title = {{Telemedicine-supported structured Orofacial Myofunctional Therapy model for Obstructive Sleep Apnea: Patients' report outcomes measurements}},
+volume = {249},
+year = {2025}
 }
 ```
 
